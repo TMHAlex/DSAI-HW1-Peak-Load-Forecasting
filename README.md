@@ -19,3 +19,4 @@ ARIMA（p，d，q）中，AR是"自回歸"，p為自回歸項數；MA為"滑動�
 
 最後將參數代入模型預測電量  (除了p d q參數外，這裡可以增加seasonal參數，利用季節性去增加預測準確度)
 
+https://nbviewer.jupyter.org/github/TMHAlex/DSAI-HW1-Peak-Load-Forecasting/blob/master/HW1/app.ipynb
